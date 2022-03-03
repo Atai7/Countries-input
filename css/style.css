@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    min-height: 600px;
+    margin: 0 auto;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    background-color: rgb(230, 103, 0);
+    border: none;
+    padding: 7px 16px;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 8px;
+}
